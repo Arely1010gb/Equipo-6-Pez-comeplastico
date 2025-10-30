@@ -113,14 +113,11 @@ Objeto detectado → Sensor Boca → Arduino → Servo → Cierra boca → Esper
 1. Observa el comportamiento en el monitor serial (opcional).
 
 ##### ❓ FAQ
-1. ######  ¿Qué pasa si el pez no se mueve?
+######  1. ¿Qué pasa si el pez no se mueve?
 Verifica las conexiones de los motores y asegúrate de tener una fuente suficiente.
-
-1. ###### El servo no se mueve.
+###### 2. El servo no se mueve.
 Revisa la conexión al pin 12 y que el servo no esté dañado o atascado.
-
-1. ###### Los sensores marcan “200 cm” siempre.
+###### 3. Los sensores marcan “200 cm” siempre.
 Esto indica que no están recibiendo eco (mal conectados o dañados). 
-
-1.  ###### ¿Puedo agregar más funciones?
+###### 4. ¿Puedo agregar más funciones?
 Sí. Puedes integrar sensores de color o cámaras para detectar plásticos reales.
