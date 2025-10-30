@@ -53,12 +53,19 @@ Boca | Detecta objetos pequeños cercanos | Activa servo (masticar)
 
 ##### 📁 Estructura del proyecto
 pez-comeplastico/ 
+
 │ 
+
 ├── README.md # Documentación del proyecto 
+
 ├── pez_comeplastico.ino # Código fuente principal 
-├── /diagrams # Diagramas de arquitectura y flujo 
+
+├── /diagrams # Diagramas de arquitectura y flujo
+
 │    ├── esquematico.png 
+
 │    └── diagrama-bloques.png 
+
 
 ##### 🧩 Arquitectura del sistema
 El sistema del Pez Comeplástico está conformado por tres módulos principales: sensores, unidad de control y actuadores.
