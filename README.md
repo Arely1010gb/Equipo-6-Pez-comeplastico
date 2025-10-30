@@ -26,7 +26,9 @@ Este proyecto detecta obstáculos y objetos cercanos, se mueve de forma autónom
 ##### 🔧 Instalación
 1. Descarga o clona este repositorio:
    
-├── git clone https://github.com/Arely1010gb/Equipo-6-Pez-comeplastico.git
+ ```bash  
+ git clone https://github.com/Arely1010gb/Equipo-6-Pez-comeplastico.git
+ ```
 
 1. Abre el archivo pez_comeplastico.ino en el Arduino IDE.
 1. Selecciona tu placa y puerto:
@@ -65,7 +67,7 @@ pez-comeplastico/
 
 │    ├── esquematico1.png 
 
-      ── esquematico2.png
+|    |── esquematico2.png
 
 │    └── diagrama-bloques.png 
 
