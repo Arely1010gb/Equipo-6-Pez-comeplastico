@@ -69,7 +69,7 @@ pez-comeplastico/
 
 |    |── esquematico2.png
 
-     |── diagrama-pictorico.png
+|    |── diagrama-pictorico.png
 
 │    └── diagrama-bloques.png 
 
