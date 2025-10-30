@@ -61,7 +61,7 @@ pez-comeplastico/
 
 ├── README.md # Documentación del proyecto 
 
-├── pez_comeplastico.ino # Código fuente principal 
+├── main.ino # Código fuente principal 
 
 ├── /diagramas # Diagramas de arquitectura y flujo
 
