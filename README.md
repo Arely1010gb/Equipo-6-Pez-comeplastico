@@ -63,7 +63,7 @@ pez-comeplastico/
 
 ├── pez_comeplastico.ino # Código fuente principal 
 
-├── /diagrams # Diagramas de arquitectura y flujo
+├── /diagramas # Diagramas de arquitectura y flujo
 
 │    ├── esquematico1.png 
 
