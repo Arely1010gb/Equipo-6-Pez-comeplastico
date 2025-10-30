@@ -62,7 +62,9 @@ pez-comeplastico/
 
 ├── /diagrams # Diagramas de arquitectura y flujo
 
-│    ├── esquematico.png 
+│    ├── esquematico1.png 
+
+     ├── esquematico2.png
 
 │    └── diagrama-bloques.png 
 
